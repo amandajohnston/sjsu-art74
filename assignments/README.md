@@ -1,8 +1,8 @@
-# **INTRO TO DIGITAL MEDIA ART**
+# **INTRODUCTION TO DIGITAL MEDIA ART**
 
-|  Art 74 Spring 2019  | Course Information  | Course Content | Course Resources |
+|  Art 74 FALL 2019  | Course Information  | Course Content | Course Resources |
 | -------------------------- |
-| **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 1:30-3pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/SJSU-Art74-Sp2019/#course-description) <br>  [Schedule](https://carriehott.github.io/SJSU-Art74-Sp2019/schedule) <br> [Assignments](https://carriehott.github.io/SJSU-Art74-Sp2019/assignments)<br>  [Expectations](https://carriehott.github.io/SJSU-Art74-Sp2019/#course-expectations) <br>[Grading](https://carriehott.github.io/SJSU-Art74-Sp2019/grading)<br>| [Critiques](https://carriehott.github.io/SJSU-Art74-Sp2019/critiques)<br> [Lectures](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures)<br> [Readings](https://carriehott.github.io/SJSU-Art74-Sp2019/readings) <br> [Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)| [Equipment](https://carriehott.github.io/SJSU-Art74-Sp2019/setup)<br> [Software](https://carriehott.github.io/SJSU-Art74-Sp2019/programs) <br> [Resources](https://carriehott.github.io/SJSU-Art74-Sp2019/resources) <br>|
+| **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 11:00am-12:00pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/sjsu-art74/#course-description) <br>  [Schedule](https://carriehott.github.io/sjsu-art74/schedule) <br> [Assignments](https://carriehott.github.io/sjsu-art74/assignments)<br>  [Expectations](https://carriehott.github.io/sjsu-art74/#course-expectations) <br>[Grading](https://carriehott.github.io/sjsu-art74/grading)<br>| [Gallery](https://carriehott.github.io/sjsu-art74/critiques)<br> [Lectures](https://carriehott.github.io/sjsu-art74/lectures)<br> [Readings](https://carriehott.github.io/sjsu-art74/readings) <br> [Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)| [Software](https://carriehott.github.io/sjsu-art74/programs) <br> [Resources](https://carriehott.github.io/sjsu-art74/resources) <br>|
 
 
 # Course Assignments
@@ -34,7 +34,7 @@ Using the idea of interruption, turning images inside out, and working with erro
 _5% of grade_<br>
 Using at least three different sources, create a digital composite speculative protest poster in Photoshop and Illustrator. When making your source selections, think not only about what you are choosing, but where it comes from, and how that affects the meaning of the image and message. Think about the function of your image- Will it be printed large or small? Made into a sticker Shown static on a screen? Projected?
 
-**Audio/Video Art project **<br>
+**Audio/Video Art project**<br>
 _10% of grade_<br>
 Using original audio recorded in class as your starting point, create a 1-2 minute video using your original footage that explores unexpected opposites. Explore camera placement, video editing, and adding visual effects. During class, on campus, shoot video footage using either a professional camera or your phone. What kind of art do you want to create and how will angles, speed, and sequencing demonstrate your idea in a way that written language and speech cannot?  
 
@@ -69,4 +69,4 @@ Create a work of digital media art using the ideas and techniques you learned in
 * Online Portfolio & Statement- 10%
 * New Media Artist Presentation - 10%
 * Final project- 20%
-* **TOTAL 100% **
+* **TOTAL 100%**
