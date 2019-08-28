@@ -1,8 +1,8 @@
 # **CREATIVE COMMONS**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 74 Fall 2019](https://carriehott.github.io/sjsu-art74/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)
 
 ![Creative Commons](images/Art74_Composite_2.010.jpeg)
 

@@ -1,9 +1,9 @@
 
 # **GITHUB & ATOM SETUP**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 74 Fall 2019](https://carriehott.github.io/sjsu-art74/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)
 
 # Setting Up and Using GitHub and Atom - for your portfolio website and net art!
 
@@ -241,8 +241,8 @@ Click 'Initialize with a README' and create. You can make it private if you want
 
 # More Tutorials:
 
-* **[HTML/CSS Overview](https://carriehott.github.io/SJSU_Art74/tutorials/HTML_CSS_Overview/)**
-* **[Portfolio Website Set Up](https://carriehott.github.io/SJSU_Art74/tutorials/Portfolio_Setup/)**
-* **[Portfolio Website Styling](https://carriehott.github.io/SJSU_Art74/tutorials/Portfolio_Styling/)**
-* **[Portfolio Website Content & Writing Guide](https://carriehott.github.io/SJSU_Art74/tutorials/Portfolio_Content/)**
-* **[Net Art Website Setup](https://carriehott.github.io/SJSU_Art74/tutorials/Net_Art_Setup/)**
+* **[HTML/CSS Overview](https://carriehott.github.io/sjsu-art74/tutorials/HTML_CSS_Overview/)**
+* **[Portfolio Website Set Up](https://carriehott.github.io/sjsu-art74/tutorials/Portfolio_Setup/)**
+* **[Portfolio Website Styling](https://carriehott.github.io/sjsu-art74/tutorials/Portfolio_Styling/)**
+* **[Portfolio Website Content & Writing Guide](https://carriehott.github.io/sjsu-art74/tutorials/Portfolio_Content/)**
+* **[Net Art Website Setup](https://carriehott.github.io/sjsu-art74/tutorials/Net_Art_Setup/)**

@@ -1,8 +1,8 @@
 # **HTML CSS Overview**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 74 Fall 2019](https://carriehott.github.io/sjsu-art74/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)
 
 <br>
 
@@ -393,4 +393,4 @@ Create a dropdown menu for different navigation options, or any other way you ca
 
 ![CSS](images/Art75_HTMLCSSIntro.052.png)
 
-# [Back To Top](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS/)
+# [Back To Top](https://carriehott.github.io/sjsu-art74/tutorials/HTML_CSS/)

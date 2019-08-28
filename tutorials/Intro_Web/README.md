@@ -1,13 +1,13 @@
 # **INTRO TO WEB DEVELOPMENT**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 74 Fall 2019](https://carriehott.github.io/sjsu-art74/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)
 
 <br>
 
 #### Introduction to Web Development Parts 1 and 2
-For a full overview of HTML & CSS see the [next tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS/)
+For a full overview of HTML & CSS see the [next tutorial](https://carriehott.github.io/sjsu-art74/tutorials/HTML_CSS/)
 
 #### On this page:
 1. [Part 1 HTML](#part-one-html)
@@ -274,4 +274,4 @@ For a full overview of HTML & CSS see the [next tutorial](https://carriehott.git
 
 ![Web Development](images/Art74_WebEcosystem_Part2.039.jpeg)
 
-# [Back to the Top](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_Web/)
+# [Back to the Top](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Web/)
