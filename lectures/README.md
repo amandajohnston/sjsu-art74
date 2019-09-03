@@ -13,7 +13,7 @@ Lectures are updated after in-class lectures are given. This page is not a subst
 
 
 
-|![new media art](TaeyoonChoi_Care.png) |  **[New Media Artist Presentations- Section 1](https://carriehott.github.io/SJSU-Art74-Sp2019/sec-one/artist-presentations/)**<br><br><br>**[New Media Artist Presentations- Section 4](https://carriehott.github.io/SJSU-Art74-Sp2019/sec-four/artist-presentations/)**|
+|![new media art](TaeyoonChoi_Care.png) | 
 | ------------------------------------------------------- |
 | ![new media art](NewMediaArt.png) |**[Intro to New Media Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Intro_NewMediaArt/)** |
 | ![new media art](GlitchArt.png)|**[Glitch Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/glitch/)**|
