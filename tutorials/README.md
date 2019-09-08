@@ -14,7 +14,7 @@ This tutorial page is updated as tutorials are given to help remind students as 
 |   SUBJECT  | TUTORIALS  |
 | ------------------------------------------------------- |
 | **General** |[Computer Setup](https://carriehott.github.io/sjsu-art74/tutorials/Computer_Setup) <br> [Creative Commons](https://carriehott.github.io/sjsu-art74/tutorials/Creative_Commons)|
-| **Photoshop & Illustrator** |[Raster and Vector files](https://carriehott.github.io/sjsu-art74/tutorials/Raster_Vector) <br> [Intro to Photoshop](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Photoshop) <br> [Intro to Illustrator](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Illustrator) |
+| **Photoshop & Illustrator** |[Raster and Vector files](https://carriehott.github.io/sjsu-art74/tutorials/Raster_Vector) <br> [Quick Emoji](https://carriehott.github.io/sjsu-art74/tutorials/emoji) <br>[Intro to Photoshop](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Photoshop) <br> [Intro to Illustrator](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Illustrator) |
 | **Glitch Art** |[Glitch Art](https://carriehott.github.io/sjsu-art74/tutorials/Glitch_Art) <br> |
 | **Composite Art** | [Composite Art](https://carriehott.github.io/sjsu-art74/tutorials/Composite_Art) |
 | **Sound Art** | [Intro to Audacity](https://carriehott.github.io/sjsu-art74/tutorials/Sound_Art)<br>[Intro to Audition](https://carriehott.github.io/sjsu-art74/tutorials/Intro_Audition)|
