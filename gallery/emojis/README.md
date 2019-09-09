@@ -27,4 +27,16 @@
 ![Rheya](Rheya.png)
 
 
-![AMANDA](Amanda.png)
+![Magali](Magali.png)
+
+
+![Brandi](Brandi.png)
+
+
+![Katie](Katie.png)
+
+
+![Kevin](Kevin.png)
+
+
+![Jessica](Jessica.png)
