@@ -11,3 +11,17 @@
 ## [Glitch Art](https://carriehott.github.io/sjsu-art74/gallery/glitch)
 
 ## [Emojis](https://carriehott.github.io/sjsu-art74/gallery/emojis)
+
+## [Jellyfish](https://carriehott.github.io/sjsu-art74/gallery/emojis)
+
+## [Composite Art](https://carriehott.github.io/sjsu-art74/gallery/composite)
+
+## [Sound Art](https://carriehott.github.io/sjsu-art74/gallery/sound)
+
+## [Video Art](https://carriehott.github.io/sjsu-art74/gallery/video)
+
+## [Net Art](https://carriehott.github.io/sjsu-art74/gallery/net)
+
+## [Code Art](https://carriehott.github.io/sjsu-art74/gallery/code)
+
+## [Final Projects](https://carriehott.github.io/sjsu-art74/gallery/finals)
