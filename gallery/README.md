@@ -8,6 +8,6 @@
 # >ART 74 GALLERY
 
 
-## Glitch Art
+## [Glitch Art](https://carriehott.github.io/sjsu-art74/gallery/glitch)
 
-## Emojis
+## [Emojis](https://carriehott.github.io/sjsu-art74/gallery/emojis)
