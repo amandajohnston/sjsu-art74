@@ -12,7 +12,7 @@
 
 ## [Emojis](https://carriehott.github.io/sjsu-art74/gallery/emojis)
 
-## [Jellyfish](https://carriehott.github.io/sjsu-art74/gallery/emojis)
+## [Jellyfish](https://carriehott.github.io/sjsu-art74/gallery/jellyfish)
 
 ## [Composite Art](https://carriehott.github.io/sjsu-art74/gallery/composite)
 
