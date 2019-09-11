@@ -10,11 +10,9 @@
 
 ### Amanda 
 
-
 ![Andrew](Andrew.png)
 
 ### Andrew
-
 
 ![Julian](Julian.png)
 
@@ -28,16 +26,13 @@
 
 ### Mengshi
 
-
 ![Oscar](Oscar.png)
 
 ### Oscar
 
-
 ![Rheya](Rheya.png)
 
 ### Rheya
-
 
 ![Magali](Magali.png)
 
@@ -47,32 +42,54 @@
 
 ### Brandi
 
-
 ![Katie](Katie.png)
 
 ### Katie
-
-
-![Kevin](Kevin.png)
-
-### Kevin
-
 
 ![Jessica](Jessica.png)
 
 ### Jessica
 
-
 ![Tommy](Tommy.png)
 
 ### Tommy
-
 
 ![Rhyan](Rhyan.png)
 
 ### Rhyan
 
-
 ![Dimond](Dimond.png)
 
 ### Dimond
+
+![Michelle](Michelle.png)
+
+### Michelle
+
+![Melina](Melina.png)
+
+### Melina
+
+![Jorge](Jorge.png)
+
+### Jorge
+
+![Mayra](Mayra.png)
+
+### Mayra
+
+![Omar](Omar.png)
+
+### Omar
+
+![Thy](Thy.png)
+
+### Thy
+
+![Uyen](Uyen.png)
+
+### Uyen
+
+![Chengyuan](Chengyuan.png)
+
+### Chengyuan
