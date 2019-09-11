@@ -18,7 +18,7 @@
 
 ### Julian
 
-![Kevin](Kevin.jpg)
+![Kevin](Kevin.png)
 
 ### Kevin
 
