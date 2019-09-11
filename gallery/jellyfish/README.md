@@ -70,7 +70,9 @@
 
 ### Melina
 
-![Jorge](Jorge.jpg)
+![Jorge](Jorge_1.jpg)
+
+![Jorge](Jorge_2.jpg)
 
 ### Jorge
 
