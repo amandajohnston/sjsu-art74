@@ -60,7 +60,7 @@
 
 ![Katie](Kaneshiro_K_CompositeArt.jpg)
 
-![Brandi](.jpg)
+![Brandi](Dotey_Brandi_CompositeArt.png)
 
 
 ### Group 8 > Uyen and Amanda
