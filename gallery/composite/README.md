@@ -51,7 +51,7 @@
 
 ![Melina](Espinoza_MComposite.jpg)
 
-![Mayra](.jpg)
+![Mayra](Lares_M_CompositeArt.jpg)
 
 
 ### Group 7 > Katie, Brandi, and Rheya
