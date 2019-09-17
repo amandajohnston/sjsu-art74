@@ -6,7 +6,7 @@
 
 ## > COMPOSITE ART
 
-### Group 1 > Rheya, Michelle, Jessica, and Magali
+### Group 1 > Michelle, Jessica, and Magali
 
 ![Michelle](Albarran_Michelle_Composite.png)
 
