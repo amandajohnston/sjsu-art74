@@ -6,6 +6,8 @@
 
 <br>
 
+### [In-Class Google Slides Presentation Here](https://docs.google.com/presentation/d/1AE3dLpKuHG1ekTRC80A5FcQCurYrXAXQwoLWQXufZkY/edit?usp=sharing)
+
 #### Introduction to Web Development Parts 1 and 2
 For a full overview of HTML & CSS see the [next tutorial](https://carriehott.github.io/sjsu-art74/tutorials/HTML_CSS/)
 
