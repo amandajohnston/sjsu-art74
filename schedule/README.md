@@ -5,6 +5,11 @@
 | **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 11:00am-12:00pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/sjsu-art74/#course-description) <br>  [Schedule](https://carriehott.github.io/sjsu-art74/schedule) <br> [Assignments](https://carriehott.github.io/sjsu-art74/assignments)<br>  [Expectations](https://carriehott.github.io/sjsu-art74/#course-expectations) <br>[Grading](https://carriehott.github.io/sjsu-art74/grading)<br>| [Gallery](https://carriehott.github.io/sjsu-art74/critiques)<br> [Lectures](https://carriehott.github.io/sjsu-art74/lectures)<br> [Readings](https://carriehott.github.io/sjsu-art74/readings) <br> [Tutorials](https://carriehott.github.io/sjsu-art74/tutorials)| [Software](https://carriehott.github.io/sjsu-art74/programs) <br> [Resources](https://carriehott.github.io/sjsu-art74/resources) <br>|
 
 # Course Schedule
+
+![november](Art74_Nov.png)
+
+![december](Art74_Dec.png)
+
 _Note: This schedule is subject to change. You will be notified of any changes in a timely manner. Check Canvas and this website regularly for updates._
 
 **Week** | **Date** | **Topics, Readings, Assignments** | **Deadlines**
